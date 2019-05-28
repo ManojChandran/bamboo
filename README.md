@@ -25,5 +25,5 @@ Step 9 : Creat Project and First Plan, add task to it.
 Step 10 : Configuration as code, you can manage the plan configuration with bamboo specs
 
 Step 11 : To start and stop BAMBOO Bamboo CI Server</br>
-  $> docker start bamboo
+  $> docker start bamboo</br>
   $> docker stop bamboo
